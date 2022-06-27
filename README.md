@@ -1,1 +1,1 @@
-I'm CM, a Senior Software Engineer interested in helping people excel in software.
+I'm CM, a Senior Software Engineer interested in helping others excel in their own software journey 😄
