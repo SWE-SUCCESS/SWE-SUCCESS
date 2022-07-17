@@ -1,7 +1,8 @@
 Hello! I'm CM, a Senior Software Engineer interested in helping others excel in their own software journey 😄
 
-Everything in this repo is intended to help you navigate your own unique experiences and ambitions with software development, but of course is comprised solely of my own experiences and opinions.  
-
+Everything in this repo is intended to help you navigate your own unique experiences and ambitions with software development, but of course is comprised solely of my own experiences and opinions.
+_________________
 If you love, hate, disagree with, have questions or have other experiences you'd like to share, I would love to hear from you! Please connect and share your thoughts on [<img src="https://user-images.githubusercontent.com/108257462/179424967-071f5f81-f59d-4faa-a4a9-f0f2da9c0b59.png" width="15" height="15">](https://www.linkedin.com/in/cmliotta/)
 
-If any of these posts has helped you please let me know or [<img src="https://user-images.githubusercontent.com/108257462/179425081-177b3f47-fe38-4bd3-86db-a0b6169deb23.png" width="150" height="100">](https://www.buymeacoffee.com/cmliotta)
+If any of these posts helped you please let me know or
+[<div><img src="https://user-images.githubusercontent.com/108257462/179425081-177b3f47-fe38-4bd3-86db-a0b6169deb23.png" width="200" height="50"></div>](https://www.buymeacoffee.com/cmliotta)
