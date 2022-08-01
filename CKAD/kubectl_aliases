@@ -1,0 +1,7 @@
+- deploy = Deployment
+- ns = Namespace
+- rs = ReplicaSet
+- pv = PersistentVolume
+- pvc = PersistentVolumeClaim
+- sa = ServiceAccount
+- svc = Service
