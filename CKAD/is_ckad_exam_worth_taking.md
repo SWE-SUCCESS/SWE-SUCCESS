@@ -31,7 +31,7 @@ _________________
 - **Relatively expensive**
   - The CKAD exam is a couple hundred dollars just to attempt, so depending on its value to you, it might not make sense financially (though there are often discounts offered around holidays).
 
-Decided to take the CKAD exam? Check out this advice on [How to pass the Linux Foundation CKAD exam](https://github.com/SWE-SUCCESS/SWE-SUCCESS/blob/main/CKAD/how_to_pass_ckad.md#how-to-pass-the-linux-foundation-ckad-exam)
+Decided to take the CKAD exam? Check out this advice on [How to pass the Linux Foundation CKAD exam](https://github.com/SWE-SUCCESS/SWE-SUCCESS/blob/main/CKAD/how_to_pass_ckad.md)
 _________________
 If this post helped you please let me know :smile: or
 [<div><img src="https://user-images.githubusercontent.com/108257462/179425081-177b3f47-fe38-4bd3-86db-a0b6169deb23.png" width="200" height="50"></div>](https://www.buymeacoffee.com/cmliotta)
