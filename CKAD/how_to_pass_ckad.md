@@ -10,6 +10,8 @@ _________________
 - **Remember namespaces**. Ensure you are working in the correct namespace for each task (it will be clear in the instructions). Include `-A` or `--all-namespaces` in kubectl commands to view resources across every namespace.
 - **Copy and Paste**. Do not waste time/brain cells/possibly typing incorrect names for resources.  Copy and Paste resource names directly from the instructions.
 - **Use resource shortnames**. This will save a little bit of time in typing, but more importantly help prevent typos or the need to lookup the full name of a given resource. Check out some of the most important [shortnames](https://github.com/SWE-SUCCESS/SWE-SUCCESS/blob/main/CKAD/kubectl_shortnames.md)
+
+Unsure if the CKAD exam is right for you? Check out [Is the Linux Foundation CKAD exam worth taking?](https://github.com/SWE-SUCCESS/SWE-SUCCESS/blob/main/CKAD/is_ckad_exam_worth_taking.md)
 _________________
 If this post helped you please let me know :smile: or
 [<div><img src="https://user-images.githubusercontent.com/108257462/179425081-177b3f47-fe38-4bd3-86db-a0b6169deb23.png" width="200" height="50"></div>](https://www.buymeacoffee.com/cmliotta)
